@@ -1,0 +1,10 @@
+.rb_navbar_collapse{
+    flex-grow: 0 !important;
+    color:white !important;
+}
+.rb_navbar{
+    color:white !important;
+}
+.rb_navbar_collapse .nav-item a{
+    color: white !important;
+}
